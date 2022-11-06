@@ -13,7 +13,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/dennis_turco/" alt="Instagram" title="Instagram Profile"><img width="32px" src="https://i.imgur.com/wOaInfV.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dennisturco.github.io" alt="WebSite" title="WebSite"><img width="32px" src="https://i.imgur.com/wOaInfV.png"/></a>
+  <a href="https://dennisturco.github.io/" alt="WebSite" title="WebSite"><img width="32px" src="https://i.imgur.com/UVbJhxK.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/DennisTurco" alt="GitHub" title="GitHub"><img width="32px" src="https://i.imgur.com/wOaInfV.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
