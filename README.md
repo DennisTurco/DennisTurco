@@ -8,6 +8,7 @@
 </p>
 
 <!-- Social icons section -->
+<!--
 <p align="center">
   <a href="https://discord.com/invite/kbZVz3m" alt="Discord" title="My Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -18,6 +19,7 @@
   <a href="https://github.com/DennisTurco" alt="GitHub" title="GitHub"><img width="32px" src="https://i.imgur.com/wOaInfV.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+-->
 
 Personal Website: https://dennisturco.github.io/ &ensp;&ensp;
 
