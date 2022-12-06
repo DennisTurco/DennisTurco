@@ -35,6 +35,10 @@ General Stats             |  Language Stats
   </a>
 </div>
 
+<div align="center">
+    ![Visitor Count](https://profile-counter.glitch.me/DennisTurco/count.svg)
+</div>
+
 
 ## 🛠️ My favorite tools
 
