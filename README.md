@@ -35,6 +35,10 @@ General Stats             |  Language Stats
   </a>
 </div>
 
+<!--START_DISABLED_SECTION:waka-->
+<img src="https://wakatime.com/share/@DennisTurco/027f8b2a-82c7-4fd2-81de-b82a836c3c10.svg" />
+<!--END_DISABLED_SECTION:waka-->
+
 ## 🛠️ My favorite tools
 
 ### Languages
@@ -59,10 +63,6 @@ General Stats             |  Language Stats
   <img src="https://profile-counter.glitch.me/DennisTurco/count.svg" />
 </p>
 
-
-<!--START_DISABLED_SECTION:waka-->
-<embed src="https://wakatime.com/share/@DennisTurco/2eb62aab-98a8-450f-af49-718d8b7f5bc4.svg"></embed>
-<!--END_DISABLED_SECTION:waka-->
 
 <!--
 **DennisTurco/DennisTurco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
