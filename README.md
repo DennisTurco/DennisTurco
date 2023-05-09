@@ -61,6 +61,7 @@ General Stats             |  Language Stats
 
 
 <!--START_DISABLED_SECTION:waka-->
+<embed src="https://wakatime.com/share/@DennisTurco/2eb62aab-98a8-450f-af49-718d8b7f5bc4.svg"></embed>
 <!--END_DISABLED_SECTION:waka-->
 
 <!--
