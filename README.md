@@ -29,14 +29,22 @@ General Stats             |  Language Stats
 :-------------------------:|:-------------------------:
 ![DennisTurco's github stats](https://github-readme-stats.vercel.app/api?username=DennisTurco&count_private=false&show_icons=true&theme=tokyonight)  |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisTurco&langs_count=15&theme=tokyonight&layout=compact)
 
-<div align="center">
+<!--
+<div align="">
   <a href="https://wakatime.com/@DennisTurco">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DennisTurco&layout=compact&theme=tokyonight&custom_title=Weekly%20Development%20Breakdown" />
   </a>
 </div>
+-->
 
 <!--START_DISABLED_SECTION:waka-->
-<img src="https://wakatime.com/share/@DennisTurco/027f8b2a-82c7-4fd2-81de-b82a836c3c10.svg" />
+<div align="">
+    <img src="https://wakatime.com/share/@DennisTurco/ec7d1bcc-749a-42c2-8d9d-ffaf05cc50da.svg" height=""/>
+</div>
+
+<div align="">
+    <img src="https://wakatime.com/share/@DennisTurco/016fc681-aa25-4ea3-ac31-bac1da8dc064.svg" height="400"/>
+</div>
 <!--END_DISABLED_SECTION:waka-->
 
 ## 🛠️ My favorite tools
