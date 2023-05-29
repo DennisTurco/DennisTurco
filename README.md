@@ -47,7 +47,7 @@ General Stats             |  Language Stats
 </div>
 <!--END_DISABLED_SECTION:waka-->
 
-## 🛠️ My favorite tools
+## 🛠️ Tools
 
 ### Languages
 
