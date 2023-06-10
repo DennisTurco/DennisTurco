@@ -38,13 +38,7 @@ General Stats             |  Language Stats
 -->
 
 <!--START_DISABLED_SECTION:waka-->
-<div align="">
-    <img src="https://wakatime.com/share/@DennisTurco/ec7d1bcc-749a-42c2-8d9d-ffaf05cc50da.svg" height=""/>
-</div>
 
-<div align="">
-    <img src="https://wakatime.com/share/@DennisTurco/016fc681-aa25-4ea3-ac31-bac1da8dc064.svg" height="400"/>
-</div>
 <!--END_DISABLED_SECTION:waka-->
 
 ## 🛠️ Tools
