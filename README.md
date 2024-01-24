@@ -7,6 +7,8 @@
   <a href="https://github.com/DennisTurco/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" /></a>
 </p>
 
+<a href="https://www.buymeacoffee.com/denno"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=denno&button_colour=e06c29&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 <!-- Social icons section -->
 <!--
 <p align="center">
